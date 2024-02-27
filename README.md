@@ -13,7 +13,6 @@ Feel free to reach out for private audits, consulting, or any other inquiries vi
 
 # Highlights
 
-- Found a unique high on the DittoETH contest ([Report](https://solodit.xyz/issues/margin-callers-can-drain-the-tapp-during-liquidation-by-willingly-increase-gas-costs-with-the-shorthintarray-codehawks-dittoeth-git))
 - Ranked #2 on the Codehawks 2023 leaderboard with 17 high and 10 medium severity vulnerabilities
 
 <img src="./images/codehawks_leaderboard.png" width="900">

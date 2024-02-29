@@ -13,8 +13,8 @@ Feel free to reach out for private audits, consulting, or any other inquiries vi
 
 # Highlights
 
-- Ranked #2 on the Codehawks 2023 leaderboard with 17 high and 10 medium severity vulnerabilities
 - Found a unique high serverity vulnerability in the DittoETH contest
+- Ranked #2 on the Codehawks 2023 leaderboard with 17 high and 10 medium severity vulnerabilities
 
 <img src="./images/codehawks_leaderboard.png" width="900">
 

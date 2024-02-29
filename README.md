@@ -19,9 +19,17 @@ Feel free to reach out for private audits, consulting, or any other inquiries vi
 
 # Competitive Audits
 
-| Contest  | Description                                                                                                                                                                                                                                                                                                          | Platform  | Ranking  | Report                                                               |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------- | -------------------------------------------------------------------- |
-| DittoETH | Ditto mints pegged assets (stablecoins) using an orderbook, using over-collateralized staked ETH.                                                                                                                                                                                                                    | Codehawks | 2 / 80   | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc) |
-| Steadefi | Steadefi provides vaults with automated risk management for earning leveraged yields effectively and passively in bull, crab and bear markets. With lending and leveraged delta long and neutral stategies, Steadefi's vaults cater to different risk/reward strategies to the best yield-generating DeFi protocols. | Codehawks | 5 / 68   | [Report](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf) |
-| Basin    | A composable EVM-native decentralized exchange protocol.                                                                                                                                                                                                                                                             | Code4rena | 6 / 73   | [Report](https://code4rena.com/reports/2023-07-basin)                |
-| ECG      | A trust minimized pooled lending protocol.                                                                                                                                                                                                                                                                           | Code4rena | 13 / 126 | [Report](https://code4rena.com/reports/2023-12-ethereumcreditguild)  |
+| Contest        | Platform  | Highs | Mediums | Ranking  | Report                                                               |
+| -------------- | --------- | ----- | ------- | -------- | -------------------------------------------------------------------- |
+| Basin          | Code4rena | 0     | 1       | 6 / 73   | [Report](https://code4rena.com/reports/2023-07-basin)                |
+| Beedle         | Codehawks | 7     | 1       |          | [Report](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
+| Escrow         | Codehawks | 0     | 1       |          | [Report](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) |
+| Sparkn         | Codehawks | 1     | 1       |          | [Report](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) |
+| DittoETH       | Codehawks | 3     | 0       | 2 / 80   | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc) |
+| Wildcat        | Code4rena | 2     | 1       |          | [Report](https://code4rena.com/reports/2023-10-wildcat)              |
+| Steadefi       | Codehawks | 1     | 7       | 5 / 68   | [Report](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf) |
+| NextGen        | Code4rena | 1     | 2       |          | [Report](https://code4rena.com/reports/2023-10-nextgen)              |
+| ECG            | Code4rena | 1     | 2       | 13 / 126 | [Report](https://code4rena.com/reports/2023-12-ethereumcreditguild)  |
+| The Standard   | Codehawks | 2     | 4       |          | [Report](https://www.codehawks.com/report/clql6lvyu0001mnje1xpqcuvl) |
+| Curves         | Code4rena | 3     | 4       |          |                                                                      |
+| Looksrare YOLO | Sherlock  | 1     | 0       |          | [Report](https://audits.sherlock.xyz/contests/163/report)            |

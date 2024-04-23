@@ -33,3 +33,4 @@ Feel free to reach out for private audits, consulting, or any other inquiries vi
 | The Standard   | Codehawks | 2     | 4       |          | [Report](https://www.codehawks.com/report/clql6lvyu0001mnje1xpqcuvl) |
 | Curves         | Code4rena | 3     | 4       |          |                                                                      |
 | Looksrare YOLO | Sherlock  | 1     | 0       |          | [Report](https://audits.sherlock.xyz/contests/163/report)            |
+| DittoETH       | Code4rena | 2     | 1       | 5 / 43   |                                                                      |

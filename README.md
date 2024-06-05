@@ -1,6 +1,6 @@
 # About
 
-I'm an independent smart contract security researcher working at GuardianAudits.
+I'm an independent smart contract security researcher and part of the GuardianAudits core team.
 
 My work can be found on various competitive audit platforms like [Codehawks](https://www.codehawks.com/profile/clkc7trh30004l208e0okerdn), [Code4rena](https://code4rena.com/@Cosine) and [Sherlock](https://audits.sherlock.xyz/watson/cosine).
 

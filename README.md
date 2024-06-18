@@ -4,9 +4,7 @@ I'm an independent smart contract security researcher and part of the GuardianAu
 
 My work can be found on various competitive audit platforms like [Codehawks](https://www.codehawks.com/profile/clkc7trh30004l208e0okerdn), [Code4rena](https://code4rena.com/@Cosine) and [Sherlock](https://audits.sherlock.xyz/watson/cosine).
 
-Feel free to reach out to me via:
-
-- **Twitter**: [@cosine_wave](https://twitter.com/cosine_wave)
+Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cosine_wave)
 
 # Highlights
 

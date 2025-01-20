@@ -6,6 +6,8 @@ My work can be found on various competitive audit platforms like [Codehawks](htt
 
 Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cosine_wave)
 
+<br>
+
 # Highlights
 
 - Ranked #2 on the Codehawks 2023 leaderboard with 17 high and 10 medium severity vulnerabilities
@@ -13,7 +15,27 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 
 <img src="./images/codehawks_leaderboard.png" width="900">
 
-# Competitive Audits
+<br>
+
+# Guardian Reviews
+
+| Protocol                         | Report                                                       |
+| -------------------------------- | ------------------------------------------------------------ |
+| jGM                              | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Sentiment                        | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Synthetix Perps V3               | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Synthetix Migration V2 -> V3     | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Foil                             | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Smardex USDN                     | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Umami esGMX                      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Umami Position Manager           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Impermax                         | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Tether USDT0                     | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Abracadabra.money MIMSwap Update | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+
+<br>
+
+# Competitive Reviews
 
 | Contest        | Platform  | Highs | Mediums | Ranking  | Report                                                               |
 | -------------- | --------- | ----- | ------- | -------- | -------------------------------------------------------------------- |

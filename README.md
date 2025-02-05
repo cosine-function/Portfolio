@@ -32,6 +32,8 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 | Impermax                     | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Tether USDT0                 | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | MIMSwap Update               | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Synthetix Treasury Market    | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Synthetix TLX V2             | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 
 <br>
 

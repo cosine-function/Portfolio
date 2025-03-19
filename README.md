@@ -42,7 +42,7 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 # Competitive Reviews
 
 | Contest        | Platform  | Highs | Mediums | Ranking  | Report                                                                          |
-| -------------- | --------- | ----- | ------- | -------- | --------------------------------------------------------------------            |
+| -------------- | --------- | ----- | ------- | -------- | ------------------------------------------------------------------------------- |
 | Basin          | Code4rena | 0     | 1       | 6        | [Report](https://code4rena.com/reports/2023-07-basin)                           |
 | DittoETH       | Codehawks | 3     | 0       | 2        | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)            |
 | Steadefi       | Codehawks | 1     | 7       | 5        | [Report](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf)            |

@@ -41,11 +41,11 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 
 # Competitive Reviews
 
-| Contest        | Platform  | Highs | Mediums | Ranking  | Report                                                                          |
-| -------------- | --------- | ----- | ------- | -------- | ------------------------------------------------------------------------------- |
-| Basin          | Code4rena | 0     | 1       | 6        | [Report](https://code4rena.com/reports/2023-07-basin)                           |
-| DittoETH       | Codehawks | 3     | 0       | 2        | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)            |
-| Steadefi       | Codehawks | 1     | 7       | 5        | [Report](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf)            |
-| ECG            | Code4rena | 1     | 2       | 13       | [Report](https://code4rena.com/reports/2023-12-ethereumcreditguild)             |
-| DittoETH       | Code4rena | 2     | 1       | 5        |                                                                                 |
-| Silo Finance   | Cantina   | 1     | 3       | 2        | [Report](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7) |
+| Contest        | Platform  | Highs | Mediums | Ranking  | Report                                                                           |
+| -------------- | --------- | ----- | ------- | -------- | -------------------------------------------------------------------------------- |
+| Basin          | Code4rena | 0     | 1       | 6        | [Report](https://code4rena.com/reports/2023-07-basin)                            |
+| DittoETH       | Codehawks | 3     | 0       | 2        | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)             |
+| Steadefi       | Codehawks | 1     | 7       | 5        | [Report](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf)             |
+| ECG            | Code4rena | 1     | 2       | 13       | [Report](https://code4rena.com/reports/2023-12-ethereumcreditguild)              |
+| DittoETH       | Code4rena | 2     | 1       | 5        |                                                                                  |
+| Silo Finance   | Cantina   | 1     | 3       | 2        | [Report](https://drive.google.com/file/d/1t2cjGwcgzF9cf3vGAop10rQ5xfrD5Tj7/view) |

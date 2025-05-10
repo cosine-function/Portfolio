@@ -34,8 +34,12 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 | MIMSwap Update               | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Synthetix Treasury Market    | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Synthetix TLX V2             | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
-| GMX Crosschain Update        | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| GMX Crosschain Update 1      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | GMX Gasless Update           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Tenor                        | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| GMX Crosschain Update 2      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Tether USDT0 Polygon Update  | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| GMX Crosschain Update 3      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 
 <br>
 

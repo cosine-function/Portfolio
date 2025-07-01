@@ -21,6 +21,9 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 
 | Protocol                     | Report                                                       |
 | ---------------------------- | ------------------------------------------------------------ |
+| M0 Extensions                | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| GMX Crosschain Update 4      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| PUSH Migration               | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | LayerZero OneSig Update      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | GMX Crosschain Update 3      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Tether USDT0 Polygon Update  | [Report](https://github.com/GuardianAudits/Audits/tree/main) |

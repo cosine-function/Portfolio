@@ -54,9 +54,9 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 
 | Contest        | Platform  | Highs | Mediums | Ranking  | Report                                                                            |
 | -------------- | --------- | ----- | ------- | -------- | --------------------------------------------------------------------------------- |
-| Liquity        | Cantina   | 0     | 2       | #1       | [Report](https://cantina.xyz/portfolio/fca4f98a-7d24-49f1-9a3b-80e5e65b2b30)      |                                                                            |
+| Liquity        | Cantina   | 0     | 2       | #1       | [Report](https://cantina.xyz/portfolio/fca4f98a-7d24-49f1-9a3b-80e5e65b2b30)      |                                      
 | Silo Finance   | Cantina   | 1     | 3       | #2       | [Report](https://drive.google.com/file/d/1t2cjGwcgzF9cf3vGAop10rQ5xfrD5Tj7/view)  |
-| DittoETH       | Code4rena | 2     | 1       | #5       |                                                                                   |
+| DittoETH       | Code4rena | 2     | 1       | #5       | [Report](https://code4rena.com/reports/2024-03-dittoeth)                          |
 | Steadefi       | Codehawks | 1     | 7       | #5       | [Report](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf)              |
 | DittoETH       | Codehawks | 3     | 0       | #2       | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)              |
 | Basin          | Code4rena | 0     | 1       | #6       | [Report](https://code4rena.com/reports/2023-07-basin)                             |

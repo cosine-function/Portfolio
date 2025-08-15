@@ -21,10 +21,14 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 
 | Protocol                          | Report                                                       |
 | --------------------------------- | ------------------------------------------------------------ |
+| GMX Reader Update                 | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| M0 M Portal Lite                  | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| M0 M Extensions Update            | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Tether USDT0 Polygon Update 2     | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Synthetix Fixed Staking Rewards   | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Gamma Algebra Limit Order Manager | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Aria IP RWAs                      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
-| M0 Extensions                     | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| M0 M Extensions                   | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | GMX Crosschain Update 4           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | PUSH Migration                    | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | LayerZero OneSig Update           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |

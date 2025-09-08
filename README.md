@@ -21,6 +21,8 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 
 | Protocol                          | Report                                                       |
 | --------------------------------- | ------------------------------------------------------------ |
+| Baseline AMM                      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| GMX Fee Automation                | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | GMX Reader Update                 | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | M0 M Portal Lite                  | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | M0 M Extensions Update            | [Report](https://github.com/GuardianAudits/Audits/tree/main) |

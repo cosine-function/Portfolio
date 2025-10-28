@@ -21,6 +21,8 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 
 | Protocol                          | Report                                                       |
 | --------------------------------- | ------------------------------------------------------------ |
+| Aria Vesting                      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Aria Token                        | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Nunchi Updates                    | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | GMX Synthetics Updates            | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Sapience Update                   | [Report](https://github.com/GuardianAudits/Audits/tree/main) |

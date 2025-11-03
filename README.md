@@ -21,6 +21,7 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 
 | Protocol                          | Report                                                       |
 | --------------------------------- | ------------------------------------------------------------ |
+| Story Hook                        | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Aria Vesting                      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Aria Token                        | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Nunchi Updates                    | [Report](https://github.com/GuardianAudits/Audits/tree/main) |

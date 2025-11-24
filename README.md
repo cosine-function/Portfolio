@@ -21,6 +21,9 @@ Feel free to reach out to me via Twitter: [@cosine_wave](https://twitter.com/cos
 
 | Protocol                          | Report                                                       |
 | --------------------------------- | ------------------------------------------------------------ |
+| Limitbreak Round 2                | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| M0 EVM M Extension                | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
+| Fun OFT                           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Story Hook                        | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Aria Vesting                      | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Aria Token                        | [Report](https://github.com/GuardianAudits/Audits/tree/main) |

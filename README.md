@@ -7,7 +7,7 @@ Feel free to reach out via Twitter: [@cosine_wave](https://twitter.com/cosine_wa
 # Highlights
 
 - Ranked #2 on the Codehawks 2023 leaderboard with 17 high and 10 medium severity vulnerabilities
-- Joined the GuardianAudits core team
+- Started to work with GuardianAudits
 
 <img src="./images/codehawks_leaderboard.png" width="900">
 

@@ -64,7 +64,7 @@ Feel free to reach out via Twitter: [@cosine_wave](https://twitter.com/cosine_wa
 
 <br>
 
-# Competitive Reviews
+# Noteworthy Competitive Reviews
 
 | Contest        | Platform  | Highs | Mediums | Ranking  | Report                                                                            |
 | -------------- | --------- | ----- | ------- | -------- | --------------------------------------------------------------------------------- |

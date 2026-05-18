@@ -17,6 +17,7 @@ Feel free to reach out via Twitter: [@cosine_wave](https://twitter.com/cosine_wa
 
 | Protocol                          | Report                                                       |
 | --------------------------------- | ------------------------------------------------------------ |
+| GMX Risk Oracle                   | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | GMX Market Delisting Flow         | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | LayerZero Canton Update           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | LayerZero Canton Rollup           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |

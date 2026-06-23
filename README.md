@@ -2,8 +2,6 @@ I have been conducting smart contract security research since 2023, with a stron
 
 My work includes reviews for leading protocols such as LayerZero, Tether USDT0, M0, Liquity, and GMX, spanning cross-chain infrastructure, stablecoins, lending, exchanges, derivatives, and more.
 
-# Contact
-
 Feel free to reach out via Twitter: [@cosine_wave](https://twitter.com/cosine_wave)
 
 <br>

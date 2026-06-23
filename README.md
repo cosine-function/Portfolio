@@ -1,3 +1,7 @@
+I have been conducting smart contract security research since 2023, with a strong focus on Solidity and DeFi protocols. Having won multiple public security contests, I bring a practical attacker mindset to high-impact Web3 security reviews.
+
+My work includes reviews for leading protocols such as LayerZero, Tether USDT0, M0, Liquity, and GMX, spanning cross-chain infrastructure, stablecoins, lending, exchanges, derivatives, and more.
+
 # Contact
 
 Feel free to reach out via Twitter: [@cosine_wave](https://twitter.com/cosine_wave)

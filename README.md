@@ -19,6 +19,7 @@ Feel free to reach out to me via X: [@cosine_wave](https://twitter.com/cosine_wa
 
 | Protocol                          | Report                                                       |
 | --------------------------------- | ------------------------------------------------------------ |
+| Avantis                           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | LayerZero Canton Update           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Perp City Round 2                 | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Ethos Network                     | [Report](https://github.com/GuardianAudits/Audits/tree/main) |

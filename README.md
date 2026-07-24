@@ -24,7 +24,6 @@ Feel free to reach out to me via X: [@cosine_wave](https://twitter.com/cosine_wa
 | DittoETH       | Code4rena | 2     | 1       | #5       | [Report](https://code4rena.com/reports/2024-03-dittoeth)                          |
 | Steadefi       | Codehawks | 1     | 7       | #5       | [Report](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf)              |
 | DittoETH       | Codehawks | 3     | 0       | #2       | [Report](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)              |
-| Basin          | Code4rena | 0     | 1       | #6       | [Report](https://code4rena.com/reports/2023-07-basin)                             |
 
 <br>
 

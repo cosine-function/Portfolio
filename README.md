@@ -31,6 +31,7 @@ Feel free to reach out to me via X: [@cosine_wave](https://twitter.com/cosine_wa
 
 | Protocol                          | Report                                                       |
 | --------------------------------- | ------------------------------------------------------------ |
+| GMX V2.2.1                        | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | PUSH Migration Update             | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | Avantis                           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
 | LayerZero Canton Update           | [Report](https://github.com/GuardianAudits/Audits/tree/main) |
